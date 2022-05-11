@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4e4c9de2-5d24-4e0c-a18b-4bd625075c02" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/back/.env" afterDir="false" />
+    <list default="true" id="4e4c9de2-5d24-4e0c-a18b-4bd625075c02" name="Changes" comment="sleact setting">
+      <change afterPath="$PROJECT_DIR$/alecture/.eslintrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alecture/.prettierrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alecture/tsconfig.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/back/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/back/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/back/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ts/package-lock.json" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,8 +48,16 @@
       <workItem from="1652057510311" duration="1254000" />
       <workItem from="1652082922036" duration="463000" />
       <workItem from="1652083412755" duration="1289000" />
-      <workItem from="1652254794004" duration="391000" />
+      <workItem from="1652254794004" duration="3127000" />
     </task>
+    <task id="LOCAL-00001" summary="sleact setting">
+      <created>1652255402597</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1652255402597</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -66,5 +73,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="sleact setting" />
+    <option name="LAST_COMMIT_MESSAGE" value="sleact setting" />
   </component>
 </project>
