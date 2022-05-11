@@ -1,7 +1,6 @@
 {
-  "name": "sleact-ts-back",
+  "name": "sleact-back",
   "version": "1.0.0",
-  "description": "",
   "main": "app.js",
   "scripts": {
     "dev": "nodemon app",
@@ -29,5 +28,6 @@
     "sequelize": "^6.5.0",
     "sequelize-cli": "^6.2.0",
     "socket.io": "^2.4.1"
-  }
+  },
+  "description": ""
 }
