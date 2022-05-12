@@ -1,7 +1,9 @@
 import React from 'react';
+import loadable from '@loadable/component';
 import { Routes, Route } from 'react-router-dom';
-import LogIn from '@pages/LogIn';
-import SignUp from '@pages/SignUp';
+
+const LogIn = loadable(()=> import('@pages/LogIn')); //페이지 단위로 코드 스플리팅이 좋음
+const SignUp = loadable(()=> import('@pages/SignUp'));
 
 const App = () => {
   return (
