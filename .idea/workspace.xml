@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4e4c9de2-5d24-4e0c-a18b-4bd625075c02" name="Changes" comment="sleact setting">
-      <change afterPath="$PROJECT_DIR$/alecture/.eslintrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alecture/.prettierrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alecture/tsconfig.json" afterDir="false" />
+    <list default="true" id="4e4c9de2-5d24-4e0c-a18b-4bd625075c02" name="Changes" comment="프론트 세팅">
+      <change afterPath="$PROJECT_DIR$/alecture/client.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alecture/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alecture/layouts/App.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alecture/tsconfig-for-webpack-config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alecture/webpack.config.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -12,8 +14,23 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript JSX File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -34,7 +51,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
-    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -48,7 +65,7 @@
       <workItem from="1652057510311" duration="1254000" />
       <workItem from="1652082922036" duration="463000" />
       <workItem from="1652083412755" duration="1289000" />
-      <workItem from="1652254794004" duration="3127000" />
+      <workItem from="1652254794004" duration="5462000" />
     </task>
     <task id="LOCAL-00001" summary="sleact setting">
       <created>1652255402597</created>
@@ -57,7 +74,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652255402597</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="프론트 세팅">
+      <created>1652313334495</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1652313334495</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -76,6 +100,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="sleact setting" />
-    <option name="LAST_COMMIT_MESSAGE" value="sleact setting" />
+    <MESSAGE value="프론트 세팅" />
+    <option name="LAST_COMMIT_MESSAGE" value="프론트 세팅" />
   </component>
 </project>
