@@ -1,17 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4e4c9de2-5d24-4e0c-a18b-4bd625075c02" name="Changes" comment="webpack &amp; babel 설정">
-      <change afterPath="$PROJECT_DIR$/alecture/pages/LogIn/index.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alecture/pages/LogIn/styles.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alecture/pages/SignUp/index.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alecture/pages/SignUp/styles.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alecture/typings/db.ts" afterDir="false" />
+    <list default="true" id="4e4c9de2-5d24-4e0c-a18b-4bd625075c02" name="Changes" comment="라우터 연결">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/alecture/client.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/alecture/client.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alecture/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/alecture/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/alecture/layouts/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/alecture/layouts/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alecture/webpack.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/alecture/webpack.config.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +76,7 @@
       <workItem from="1652254794004" duration="6236000" />
       <workItem from="1652316437297" duration="310000" />
       <workItem from="1652316763561" duration="647000" />
-      <workItem from="1652317418643" duration="5327000" />
+      <workItem from="1652317418643" duration="6335000" />
     </task>
     <task id="LOCAL-00001" summary="sleact setting">
       <created>1652255402597</created>
@@ -106,7 +99,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652315805680</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="라우터 연결">
+      <created>1652332729776</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1652332729776</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -127,6 +127,7 @@
     <MESSAGE value="sleact setting" />
     <MESSAGE value="프론트 세팅" />
     <MESSAGE value="webpack &amp; babel 설정" />
-    <option name="LAST_COMMIT_MESSAGE" value="webpack &amp; babel 설정" />
+    <MESSAGE value="라우터 연결" />
+    <option name="LAST_COMMIT_MESSAGE" value="라우터 연결" />
   </component>
 </project>
